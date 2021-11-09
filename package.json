@@ -1,0 +1,21 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "EventEmitter": "^1.0.0",
+    "bufferutil": "^3.0.3",
+    "discord-message-handler": "^1.0.4",
+    "discord.js": "^11.3.2",
+    "event-emitter": "^0.3.5",
+    "profanities": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
